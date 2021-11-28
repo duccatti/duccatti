@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duccatti;
 - 👀 I’m interested in code some websites;
-- 🌱 I’m currently learning back-end in NodeJs;
+- 🌱 I’m currently learning front-end in HTML5 and CSS3;
 - 💞️ I’m looking to collaborate in the develop of websites, systems on some big company;
 - 📫 How to reach me: Instagram: @duccatts
 
