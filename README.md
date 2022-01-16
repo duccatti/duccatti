@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @duccatti;
 - 👀 I’m interested in code some websites;
-- 🌱 I’m currently learning front-end in HTML5 and CSS3;
+- 🌱 I’m currently learning front-end in HTML5, CSS3 and JS;
 - 💞️ I’m looking to collaborate in the develop of websites, systems on some big company;
-- 📫 How to reach me: Instagram: @duccatts
+- 📫 How to reach me: Instagram: @duccatt_skt
 
 <!---
 duccatti/duccatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
