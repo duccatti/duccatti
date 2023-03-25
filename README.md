@@ -1,4 +1,4 @@
-### 👋 Hi, everyone!
+### 👋 Olá, eu sou o João Luiz Ducatti
 
 - 👀 Hoje estudo FrontEnd.                  
 - 🌱 Estudando JavaScript, HTML e CSS.
