@@ -1,11 +1,11 @@
-### 👋 Olá, eu sou o João Luiz Ducatti
+Olá, eu sou o João Luiz Ducatti, procuro meu primeiro emprego na área de FrontEnd!
 
-- 👀 Hoje estudo FrontEnd.                  
-- 🌱 Estudando JavaScript, HTML e CSS.
-- 😁 Pronomes: ele/dele
+- Hoje estudo FrontEnd.                  
+- Estudando JavaScript, HTML e CSS.
+- Pronomes: ele/dele
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duccatti&theme=onedark&show-icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duccatti&theme=onedark&show-icons=true&include_all_commits=true&hide=issues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duccatti&theme=onedark&layout=compact">
 </div>
 
@@ -25,3 +25,4 @@
   <a href = "mailto:cjokesupremo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-luiz-ducatti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
