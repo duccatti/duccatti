@@ -26,3 +26,4 @@ Olá, eu sou o João Luiz Ducatti, procuro meu primeiro emprego na área de Fron
   <a href="https://www.linkedin.com/in/joao-luiz-ducatti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![Snake animation](https://github.com/duccatti/duccatti/blob/output/github-contribution-grid-snake.svg)
